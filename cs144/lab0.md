@@ -1,5 +1,8 @@
-#cs144
-
-![Uploading 屏幕截图 2025-02-11 202158.png…]()
-
-cs144 end
+#cs144 lab0
+##1.环境配置
+我使用的是安装方法是1. Recommended: Install the CS144 VirtualBox virtual-machine image (instructions at https://stanford.edu/class/cs144/vm howto/vm-howto-image.html).
+第一次启动后报fail，重启电脑后pass
+##2.Fetch a Web page
+pdf是这样写的：
+!([Fetch a Web page](https://github.com/zhaozhiyangzzy/lecture_note/blob/main/cs144/picture/cslab0_1.png?raw=true))
+不过一直fail，网上找了其他blog看需要快速输入，三个一块输入就可以成功
