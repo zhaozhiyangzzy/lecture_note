@@ -5,7 +5,6 @@
 第一次启动后报fail，重启电脑后pass
 
 ## 2.Fetch a Web page
-pdf是这样写的：
+pdf是这样写的：<br/>
 ![Fetch a Web page](https://github.com/zhaozhiyangzzy/lecture_note/blob/main/cs144/picture/cslab0_1.png?raw=true)
-
-不过一直fail，网上找了其他blog看需要快速输入，三个一块输入就可以成功
+<br/>不过一直fail，网上找了其他blog看需要快速输入，三个一块输入就可以成功
